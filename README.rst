@@ -279,8 +279,6 @@ More Information about SSP
 
 Visit `this page to request a demo of SSP <https://www.stamus-networks.com/demo>`_
 
-To learn more about the differences between SELKS and our commercial solutions, download the white paper, Understanding SELKS and Stamus Commercial Platforms. 
-
-'Download here <https://www.stamus-networks.com/hubfs/Library/Documents%20(PDFs)/StamusNetworks-WP-SELKS-SSP-092021-1.pdf>'
+To learn more about the differences between SELKS and our commercial solutions, download the white paper, Understanding SELKS and Stamus Commercial Platforms. Download the white paper here <https://www.stamus-networks.com/hubfs/Library/Documents%20(PDFs)/StamusNetworks-WP-SELKS-SSP-092021-1.pdf>
 
 
