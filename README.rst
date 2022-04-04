@@ -277,7 +277,7 @@ Enterprise Scale Management and Integration
 More Information about SSP
 ==========================
 
-Visit `this page to request a demo of SSP <https://www.stamus-networks.com/demo>'`_
+Visit `this page to request a demo of SSP <https://www.stamus-networks.com/demo>`_
 
 To learn more about the differences between SELKS and our commercial solutions, download the white paper, Understanding SELKS and Stamus Commercial Platforms. 
 
